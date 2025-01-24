@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tori-Rose, or Tori, or Victoria!
-- 👀 I’m interested in plants and data! I think the future is in data!
+- 👀 I’m interested in plants and data!
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me - Discord! @Tori-Rose
 
